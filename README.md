@@ -1,1 +1,1 @@
-# Basic-CRUD-App
+# basic-ecommerce-app
