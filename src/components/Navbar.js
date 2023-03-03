@@ -31,6 +31,12 @@ function Navbar() {
                   About
                 </NavLink>
               </li>
+
+              <li className="nav-item">
+                <NavLink className="nav-link" to="/contact">
+                Contact
+                </NavLink>
+              </li>
             </ul>
           </div>
         </div>
