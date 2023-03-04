@@ -1,0 +1,21 @@
+.side-bar {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: start !important;
+  justify-content: start;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
+
+.side-bar .nav-item {
+  margin: 10px 0;
+}
+
+.side-bar .nav-item .nav-link {
+  color: black;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+}

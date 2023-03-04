@@ -1,12 +1,9 @@
 import React from "react";
-import ProductsList from "../components/ProductsList";
-import Slider from "../components/Slider";
 
 const Home = () => {
   return (
     <>
-      <Slider />
-      <ProductsList />
+      <h1>Home Page</h1>
     </>
   );
 };

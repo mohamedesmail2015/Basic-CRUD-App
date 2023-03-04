@@ -1,0 +1,9 @@
+/* .productDetails-card {
+  height: 300px !important;
+
+  margin: 10px auto;
+} */
+
+.productDetails-card .productDetails-img {
+  height: 30px !important;
+}

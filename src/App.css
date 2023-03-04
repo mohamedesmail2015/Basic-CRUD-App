@@ -1,6 +1,6 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 .App-logo {
   height: 40vmin;
@@ -37,26 +37,19 @@
   }
 }
 
-.card {
-  margin: 10px auto;
-  height: 350px !important;
-}
-
-.card img {
-  height: 45%;
-}
-
-.card .card-title {
-  height: 45%;
-  padding-top: 10px;
-  font-size: 16px;
-}
-
-.btn-filtr {
-  margin: 10px;
-}
-
 .active {
+  color: white !important;
+  font-size: 19px;
+  font-weight: bold;
   border-radius: 5px;
-  background-color: aqua;
+  background-color: teal;
+}
+
+/* products */
+.products-btn {
+  margin-left: 10px;
+}
+
+.productDetails-card .productDetails-img {
+  height: 30px !important;
 }
